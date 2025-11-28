@@ -1,2 +1,3 @@
 Day 2 practice started
 Day 3 - practice branch -> add -> commit -> PR -> Merge -> Delete branch. Learn git workflow
+Practicing for maintaining streak
