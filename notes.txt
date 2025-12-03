@@ -4,3 +4,4 @@ Practicing for maintaining streak
 practicing linux basics commands
 practing linux commands
 Practicing health monitor
+Practicing adduser & useradd in linux
