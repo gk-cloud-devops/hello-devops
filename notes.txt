@@ -5,3 +5,4 @@ practing linux commands (mkdir,pwd)
 Practicing (cd,echo)
 Practicing adduser & useradd in linux
 Practicing create folder Touch
+Practicing ls command
