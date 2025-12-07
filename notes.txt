@@ -4,5 +4,6 @@ Learning linux basics commands
 practing linux commands (mkdir,pwd)
 Practicing (cd,echo)
 Practicing adduser & useradd in linux
+Practicing Move & copy linux command
 Practicing create folder Touch
 Practicing ls command
