@@ -8,6 +8,7 @@ Practicing Move & copy linux command
 Practicing create folder Touch
 Practicing ls command
 Practicing remove directory rmdirPracticing cd .. and whoami
+Learning editiors Vi, Vim, nano
 Learning cat, head, tail
 Learning Managing and changing password
 Learning File permissions and folder permissions chmod rwx
