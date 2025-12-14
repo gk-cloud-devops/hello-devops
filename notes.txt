@@ -8,3 +8,4 @@ Practicing Move & copy linux command
 Practicing create folder Touch
 Practicing ls command
 Practicing remove directory rmdirPracticing cd .. and whoami
+Learning to monitoring system health using df -h, free
