@@ -13,3 +13,4 @@ Learning editiors Vi, Vim, nano
 Learning cat, head, tail
 Learning Managing and changing password
 Learning File permissions and folder permissions chmod rwx
+Learning ps -ef, grep for filtering the words
