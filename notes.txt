@@ -16,3 +16,8 @@ Learning Managing and changing password
 Learning File permissions and folder permissions chmod rwx
 Learning ps -ef, grep for filtering the wordsLearning curl command  Fetches a webpage's content
 Learning wget Downloads a file from the internet
+Learning curl command  Fetches a webpage's content
+Learning ps -ef, grep for filtering the words
+Learning ip a – Shows IP addresses of network interfaces
+Learning networking ping google.com – Checks connectivity to a remote server
+Learning cpu & memory monitoring using top , htop
