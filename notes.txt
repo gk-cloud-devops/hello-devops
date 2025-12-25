@@ -15,3 +15,6 @@ Learning cat, head, tail
 Learning Managing and changing password
 Learning File permissions and folder permissions chmod rwx
 Learning ps -ef, grep for filtering the wordsLearning lsblk to display the block devices
+Learning ps -ef, grep for filtering the wordsLearning curl command  Fetches a webpage's content
+Learning wget Downloads a file from the internet
+Learning lsblk to display the block devices
