@@ -1,0 +1,18 @@
+Linux practice started
+Practicing for maintaining streak
+Learning linux basics commands
+practing linux commands (mkdir,pwd)
+Practicing (cd,echo)
+Practicing adduser & useradd in linux
+Practicing Move & copy linux command
+Practicing create folder Touch
+Practicing ls command
+Practicing remove directory rmdirPracticing cd .. and whoami
+learning managing processors kill and kill -9
+Learning to monitoring system health using df -h, free
+Learning editiors Vi, Vim, nano
+Learning cat, head, tail
+Learning Managing and changing password
+Learning File permissions and folder permissions chmod rwx
+Learning ps -ef, grep for filtering the wordsLearning lsblk to display the block devices
+Learning more + file name - it used to see the content inside the file (like cat)
