@@ -17,4 +17,5 @@ Learning File permissions and folder permissions chmod rwx
 Learning ps -ef, grep for filtering the wordsLearning lsblk to display the block devices
 Learning more + file name - it used to see the content inside the file (like cat)
 learning tar - an archiving utility
+Learning unzip - list, test and extract compressed files in a ZIP archive
 Learning zip - package and compress (archive) files
