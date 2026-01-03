@@ -18,3 +18,8 @@ Learning ps -ef, grep for filtering the wordsLearning lsblk to display the block
 Learning more + file name - it used to see the content inside the file (like cat)
 learning tar - an archiving utility
 Learning stat to see  file details
+learning find ~ -maxdepth 1 - it used to find all the folders & subfolders
+Learning find (file_name)* - search all the file_name
+Learning find - search for files in a directory hierarchy
+Learning unzip - list, test and extract compressed files in a ZIP archive
+Learning zip - package and compress (archive) files
