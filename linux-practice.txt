@@ -17,6 +17,7 @@ Learning File permissions and folder permissions chmod rwx
 Learning ps -ef, grep for filtering the wordsLearning lsblk to display the block devices
 Learning more + file name - it used to see the content inside the file (like cat)
 learning tar - an archiving utility
+Learned pipe symbol and usecase
 Learning stat to see  file details
 learning find ~ -maxdepth 1 - it used to find all the folders & subfolders
 Learning find (file_name)* - search all the file_name
