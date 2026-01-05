@@ -17,3 +17,4 @@ Learning File permissions and folder permissions chmod rwx
 Learning ps -ef, grep for filtering the wordsLearning lsblk to display the block devices
 Learning more + file name - it used to see the content inside the file (like cat)
 learning tar - an archiving utility
+Learned find -size +2k - it used to find the file size more than 2k (+ more than the value, - less than the value)
