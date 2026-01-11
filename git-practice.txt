@@ -1,1 +1,2 @@
 start learning git
+learning git init
