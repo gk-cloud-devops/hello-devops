@@ -1,2 +1,3 @@
 start learning git
+learning git add file_name
 learning git init
