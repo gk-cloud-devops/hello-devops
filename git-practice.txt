@@ -1,2 +1,4 @@
 start learning git
 learning git remote
+learning git add file_name
+learning git init
